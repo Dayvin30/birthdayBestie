@@ -485,7 +485,7 @@ x = setInterval(function() {
       }
       stepClass(step);
       if (step === 3) {
-        setTimeout(showBirthdayMessage, 1000);
+        setTimeout(showBirthdayMessage, 8000);
       }
       if (step === 4) {
         return
