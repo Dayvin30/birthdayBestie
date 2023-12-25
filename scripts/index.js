@@ -485,7 +485,7 @@ x = setInterval(function() {
       }
       stepClass(step);
       if (step === 3) {
-        setTimeout(showBirthdayMessage, 8000);
+        setTimeout(showBirthdayMessage, 1000);
       }
       if (step === 4) {
         return
@@ -497,7 +497,7 @@ x = setInterval(function() {
 
     function showBirthdayMessage() {
       // Code pour l'événement à déclencher après 10 secondes
-      window.location.href = "../birthdayLetter/birthdayLetter.php";
+      window.location.href = "../birthdayLetter/birthdayLetter.html";
     }
 
     function showfireworks() {
