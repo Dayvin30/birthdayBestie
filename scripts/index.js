@@ -497,7 +497,7 @@ x = setInterval(function() {
 
     function showBirthdayMessage() {
       // Code pour l'événement à déclencher après 10 secondes
-      window.location.href = "../birthdayLetter/birthdayLetter.html";
+      window.location.href = "https://birthday-bestie.vercel.app/birthdayLetter/birthdayLetter.html";
     }
 
     function showfireworks() {
