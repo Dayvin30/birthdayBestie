@@ -146,10 +146,6 @@ p {
     color: #333;
 }
 
-.cardInside p {
-    font-size: 20px;
-}
-
 .name {
     position: absolute;
     left: 150px;
