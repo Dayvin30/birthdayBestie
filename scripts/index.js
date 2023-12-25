@@ -56,7 +56,7 @@ x = setInterval(function() {
     hw = w / 2, // half-width
     hh = h / 2,
     opts = {
-      strings: ['JOYEUX', 'ANNIVERSAIRE!', config.name],
+      strings: ['JOYEUX', 'ANNIVERSAIRE', config.name],
       charSize: 30,
       charSpacing: 30,
       lineHeight: 40,
